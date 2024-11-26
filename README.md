@@ -45,3 +45,4 @@ To set up the project, install the following dependencies in order of importance
 ---
 
 ### Usage  
+Install these libraries before running the scripts or notebooks. These tools are prioritized to ensure seamless data scraping, preprocessing, and predictive modeling, making the workflow efficient and reliable.
