@@ -1,0 +1,3 @@
+CLIENT_ID = "QD8cng77Jgg5ARvFmhGKOw"
+CLIENT_SECRET = "KEbY6tvI0AUqFHOsfQDhv65JzhOnRA"
+USER_AGENT = "your_user_agent"
